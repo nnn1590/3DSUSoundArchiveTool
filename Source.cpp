@@ -8,7 +8,7 @@
 #include <string>
 #include <regex>
 #include <vector>
-#include <direct.h>
+#include <sys/stat.h>
 #include <math.h>
 #include <sar.h>
 #include <STRGSection.h>
